@@ -5,8 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>io.github.futurewl</groupId>
-        <artifactId>netty-action</artifactId>
+        <artifactId>netty-in-action</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
+    <artifactId>chapter-8</artifactId>
 
 </project>
