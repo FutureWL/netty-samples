@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>io.github.futurewl</groupId>
+    <artifactId>netty-action</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <modules>
+        <module>chapter-1</module>
+        <module>chapter-2</module>
+        <module>chapter-3</module>
+        <module>chapter-4</module>
+        <module>chapter-5</module>
+        <module>chapter-6</module>
+        <module>chapter-7</module>
+        <module>chapter-8</module>
+        <module>chapter-9</module>
+        <module>chapter-10</module>
+        <module>chapter-11</module>
+        <module>chapter-12</module>
+        <module>chapter-13</module>
+        <module>chapter-14</module>
+        <module>chapter-15</module>
+    </modules>
+
+</project>
