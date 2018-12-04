@@ -8,6 +8,7 @@
         <artifactId>netty-in-action</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
+
     <artifactId>chapter-4</artifactId>
 
 </project>
