@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>io.github.futurewl</groupId>
-        <artifactId>netty-in-action</artifactId>
+        <artifactId>netty-simples</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
     <artifactId>chapter-7</artifactId>

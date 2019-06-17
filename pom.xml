@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.github.futurewl</groupId>
-    <artifactId>netty-in-action</artifactId>
+    <artifactId>netty-simples</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <modules>
@@ -25,5 +25,13 @@
         <module>chapter-14</module>
         <module>chapter-15</module>
     </modules>
+
+    <dependencies>
+        <dependency>
+            <groupId>io.netty</groupId>
+            <artifactId>netty-all</artifactId>
+            <version>4.1.36.Final</version>
+        </dependency>
+    </dependencies>
 
 </project>
